@@ -1,7 +1,11 @@
 # cool-github-avatars
 A collection of users with cool github avatars
 
+![coryarcangel](https://avatars3.githubusercontent.com/u/354651?v=4&s=200)
+
 https://github.com/coryarcangel
+
+![hnnhn](https://avatars2.githubusercontent.com/u/816345?v=4&s=200)
 
 https://github.com/hnnhn
 
