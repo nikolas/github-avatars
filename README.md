@@ -1,5 +1,5 @@
 # github-avatars
-A collection of users with cool github avatars
+A collection of github avatars
 
 ![coryarcangel](https://avatars3.githubusercontent.com/u/354651?v=4&s=200)
 
