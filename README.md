@@ -5,6 +5,10 @@ A collection of github avatars
 
 https://github.com/coryarcangel
 
+![GaelicGrime](https://avatars2.githubusercontent.com/u/1947397?v=4&s=200)
+
+https://github.com/GaelicGrime
+
 ![hnnhn](https://avatars2.githubusercontent.com/u/816345?v=4&s=200)
 
 https://github.com/hnnhn
