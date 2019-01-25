@@ -21,6 +21,10 @@ https://github.com/GaelicGrime
 
 https://github.com/hnnhn
 
+![jaraco](https://avatars2.githubusercontent.com/u/308610?v=4&s=200)
+
+https://github.com/jaraco
+
 ![lexi-lambda](https://avatars1.githubusercontent.com/u/759911?v=4&s=200)
 
 https://github.com/lexi-lambda
