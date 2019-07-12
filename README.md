@@ -73,6 +73,10 @@ https://github.com/tlevine
 
 https://github.com/toots
 
+![vvangelovski](https://avatars1.githubusercontent.com/u/63755?v=4&s=200)
+
+https://github.com/vvangelovski
+
 ![yeahimfreaky](https://avatars1.githubusercontent.com/u/2522537?v=4&s=200)
 
 https://github.com/yeahimfreaky
