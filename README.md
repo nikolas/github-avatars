@@ -5,6 +5,10 @@ A collection of github avatars
 
 https://github.com/asgdf
 
+![baku89](https://avatars3.githubusercontent.com/u/2124392?s=200&v=4)
+
+https://github.com/baku89
+
 ![coryarcangel](https://avatars3.githubusercontent.com/u/354651?v=4&s=200)
 
 https://github.com/coryarcangel
