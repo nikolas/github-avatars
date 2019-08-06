@@ -65,6 +65,10 @@ https://github.com/Sarcasm
 
 https://github.com/shewu
 
+![telk5093](https://avatars1.githubusercontent.com/u/10726524?v=4&s=200)
+
+https://github.com/telk5093
+
 ![test](https://avatars1.githubusercontent.com/u/383316?v=4&s=200)
 
 https://github.com/test
