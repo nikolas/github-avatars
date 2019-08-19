@@ -13,6 +13,10 @@ https://github.com/baku89
 
 https://github.com/coryarcangel
 
+![dmwit](https://avatars3.githubusercontent.com/u/203613?v=4&s=200)
+
+https://github.com/dmwit
+
 ![englercj](https://avatars3.githubusercontent.com/u/944497?v=4&s=200)
 
 https://github.com/englercj
