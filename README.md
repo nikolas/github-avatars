@@ -49,14 +49,6 @@ https://github.com/mcfiredrill
 
 https://github.com/mikeyrayvon
 
-![RobbieMcKinstry](https://avatars1.githubusercontent.com/u/4955075?v=4&s=200)
-
-https://github.com/RobbieMcKinstry
-
-![sirkoz](https://avatars1.githubusercontent.com/u/55063697?v=4&s=200)
-
-https://github.com/sirkoz
-
 ![NeilFraser](https://avatars1.githubusercontent.com/u/250480?v=4&s=200)
 
 https://github.com/NeilFraser
@@ -65,6 +57,10 @@ https://github.com/NeilFraser
 
 https://github.com/RiDeag
 
+![RobbieMcKinstry](https://avatars1.githubusercontent.com/u/4955075?v=4&s=200)
+
+https://github.com/RobbieMcKinstry
+
 ![Sarcasm](https://avatars1.githubusercontent.com/u/424046?v=4&s=200)
 
 https://github.com/Sarcasm
@@ -72,6 +68,10 @@ https://github.com/Sarcasm
 ![shewu](https://avatars1.githubusercontent.com/u/79194?v=4&s=200)
 
 https://github.com/shewu
+
+![sirkoz](https://avatars1.githubusercontent.com/u/55063697?v=4&s=200)
+
+https://github.com/sirkoz
 
 ![telk5093](https://avatars1.githubusercontent.com/u/10726524?v=4&s=200)
 
